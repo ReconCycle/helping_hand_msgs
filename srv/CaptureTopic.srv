@@ -1,0 +1,6 @@
+string topic_name
+string entry_name
+float timeout
+---
+bool success
+string message

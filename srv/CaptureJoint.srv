@@ -1,0 +1,5 @@
+sensor_msgs/JointState joints
+string entry_name
+---
+bool success
+string message

@@ -1,0 +1,6 @@
+dmp_msgs/JointSpaceDMP joint_dmp
+dmp_msgs/CartesianSpaceDMP cartesian_dmp
+string entry_name
+---
+bool success
+string message
